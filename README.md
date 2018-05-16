@@ -1,6 +1,6 @@
 # Video_Smoke_Detection
 Requirements:
-Python  3.5
+Python  3.5\n
 PyQt5	5.9.2	
 opencv-python	3.4.0.12
 tensorflow-gpu	1.5.0	
