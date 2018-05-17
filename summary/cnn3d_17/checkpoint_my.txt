@@ -1,0 +1,10 @@
+/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-4406:0.9919084821428571
+/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-5115:0.9916294642857143
+/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-5235:0.9910714285714286
+/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-5618:0.9907924107142857
+/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-6953:0.9913504464285714
+/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-7316:0.9910714285714286
+/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-7559:0.9907924107142857
+/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-8188:0.9907924107142857
+/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-8711:0.9916294642857143
+/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-9237:0.9916294642857143

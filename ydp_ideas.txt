@@ -1,0 +1,5 @@
+like rcnn, do motion detection in feature map.
+
+GAN generate smoke image
+
+different size smoke block, to generate scalable smoke, a inherent NN model

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-4406"
+all_model_checkpoint_paths: "/home/dell/xjg/SmokeDetection/summary/cnn3d_16/model.ckpt-9297"
