@@ -17,4 +17,4 @@ Command:
 
 run train_and_detection/win_entry.py
 
-![img](http://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/2Dto3D.png)
+![img](http://github.com/xjg0124/Video_Smoke_Detection/tree/master/img/2Dto3D.png)
