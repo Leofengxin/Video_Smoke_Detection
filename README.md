@@ -12,3 +12,7 @@ tensorflow-gpu	1.5.0
 CUDA 8.0
 
 easydict
+
+Command:
+
+run train_and_detection/win_entry.py
