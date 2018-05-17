@@ -1,4 +1,0 @@
-train_positive_data_num:8388
-train_negative_data_num:6723
-test_positive_data_num:1610
-test_negative_data_num:2002
