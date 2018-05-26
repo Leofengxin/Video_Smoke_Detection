@@ -27,6 +27,8 @@ run train_and_detection/train.py
 
 ## Reference:
 
+[1]Learning Spatio-Temporal Representation with Pseudo-3D Residual,ICCV2017
+
 ## Spatio-Temporal Deep Neursl Network Based Video Smoke Detection
 ### 1.model
  **2Dto3D：**
