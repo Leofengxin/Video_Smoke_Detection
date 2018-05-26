@@ -190,7 +190,7 @@ summary_dir = join_path_my(project_dir, 'summary')
 data_tfrecords_dir = join_path_my(project_dir, 'data', 'data_tfrecords')
 FLAGS = tf.app.flags.FLAGS
 tf.app.flags.DEFINE_string('data_tfrecords_dir', data_tfrecords_dir, 'Where tfrecords data locate.')
-tf.app.flags.DEFINE_string('net_is_using', 'cnn2d_lstm', 'The net is in using now. Option ["cnn3d", "cnn2d_lstm"].')
+tf.app.flags.DEFINE_string('net_is_using', 'cnn3d', 'The net is in using now. Option ["cnn3d", "cnn2d_lstm"].')
 tf.app.flags.DEFINE_string('motion_detector', 'background_substraction', 'The motion detector is using now. Option ["background_substraction"]')
 tf.app.flags.DEFINE_bool('is_continue_train', False, 'Whether or not to train continually.')
 tf.app.flags.DEFINE_string('continue_train_dir', os.path.join(summary_dir, 'cnn3d_16'), 'The directory where model is saved.')
