@@ -19,5 +19,10 @@ run train_and_detection/win_entry.py
 
 Reference:
 
+## Project
+### 1.Recipe
+ **Result：**
+ ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/2Dto3D.png)
 
-![image](http://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/2Dto3D.jpg)
+
+
