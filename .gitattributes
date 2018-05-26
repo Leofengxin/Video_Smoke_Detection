@@ -1,1 +1,4 @@
-*.md linguist-language=python 
+*.log linguist-language=python 
+*.pyc linguist-language=python 
+*.xml linguist-language=python 
+*.png linguist-language=python
