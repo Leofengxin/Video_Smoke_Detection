@@ -13,9 +13,17 @@ CUDA 8.0
 
 easydict
 
-## Command:
+## Use:
 
-run train_and_detection/win_entry.py
+1. run train_and_detection/win_entry.py
+
+2. "open model" --> (summary/cnn3d_17)
+
+3. "open video"
+
+## Train:
+
+run train_and_detection/train.py
 
 ## Reference:
 
@@ -26,14 +34,23 @@ run train_and_detection/win_entry.py
  ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/2Dto3D.png)
 
  **3D：**
+
  ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/3D.png)
- **3Dblock：**
+
+ **conv3d block(A,B,C)：**
+
  ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/3Dblock.png)
+
  **3D_DenseNet：**
+
  ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/3D_DenseNet.png)
+
  **Result1：**
+
  ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/Result1.png)
+
  **Result2：**
+
  ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/Result2.png)
 
 
