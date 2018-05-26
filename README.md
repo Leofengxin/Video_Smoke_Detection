@@ -1,5 +1,5 @@
-# Video_Smoke_Detection
-Requirements:
+# INTRODUCTION
+## Requirements:
 
 Python  3.5
 
@@ -13,16 +13,28 @@ CUDA 8.0
 
 easydict
 
-Command:
+## Command:
 
 run train_and_detection/win_entry.py
 
-Reference:
+## Reference:
 
-## Project
-### 1.Recipe
- **Result：**
+## Spatio-Temporal Deep Neursl Network Based Video Smoke Detection
+### 1.model
+ **2Dto3D：**
+
  ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/2Dto3D.png)
+
+ **3D：**
+ ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/3D.png)
+ **3Dblock：**
+ ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/3Dblock.png)
+ **3D_DenseNet：**
+ ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/3D_DenseNet.png)
+ **Result1：**
+ ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/Result1.png)
+ **Result2：**
+ ![index](https://github.com/xjg0124/Video_Smoke_Detection/raw/master/img/Result2.png)
 
 
 
